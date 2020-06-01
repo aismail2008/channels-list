@@ -35,3 +35,11 @@ http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8
 https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", ALJAZEERA
 https://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:0 type="stream" channelId="-1", El MEHWAR
+http://192.34.153.37:7777/ElMehwar_HD/ElMehwar_HD.m3u8?user=sgls540839&session=70b393f3ace77d57948def7da25a509df8bfd6fe85e62e747c0f8772c4f2024f&hlsid=HTTP_ID_11&starttime=20200504T202449.769383
+#EXTINF:0 type="stream" channelId="-1", NAHAR BLUE
+http://192.34.153.37:7777/AlNahar_HD.m3u8?user=sgls540839&session=9eb001a729d34d21948def7da25a509df8bfd6fe85e62e747c0f8772c4f2024f
+#EXTINF:0 type="stream" channelId="-1", NAHAR DRAMA
+http://192.34.153.37:7777/AlNaharDrama_HD.m3u8?user=sgls540839&session=a77312c30478e1d2c6a158f6c56c7084f8bfd6fe85e62e747c0f8772c4f2024f
+#EXTINF:0 type="stream" channelId="-1", CBC
+http://192.34.153.37:7777/CBC_HD/CBC_High.m3u8?user=sgls540839&session=a055ce02139b615bc27ff8fb343efe0af8bfd6fe85e62e747c0f8772c4f2024f&hlsid=HTTP_ID_11&starttime=20200504T202449.765381
