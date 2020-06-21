@@ -1,28 +1,28 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1", MBC 1
-https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
+http://51.81.80.6:8080/live/stream/stream/1.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC 2
-https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
+http://51.81.80.6:8080/live/stream/stream/4.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC 3
-https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8
+http://51.81.80.6:8080/live/stream/stream/5.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC 4
-https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8
+http://51.81.80.6:8080/live/stream/stream/6.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC 5
-https://shls-mbc5-prod.shahid.net/mbc5-prod_1.m3u8
+http://51.81.80.6:8080/live/stream/stream/7.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC ACTION
-https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
+http://51.81.80.6:8080/live/stream/stream/8.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC MAX
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
+http://51.81.80.6:8080/live/stream/stream/9.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC Masr
 http://51.81.80.6:8080/live/stream/stream/11.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC Masr 2
-https://shls-masr2-prod.shahid.net/masr2-prod_1.m3u8
+http://51.81.80.6:8080/live/stream/stream/12.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC Drama
-https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8
+http://51.81.80.6:8080/live/stream/stream/10.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC Iraq
-https://shls-iraq-prod.shahid.net/iraq-prod_1.m3u8
+http://51.81.80.6:8080/live/stream/stream/13.m3u8
 #EXTINF:0 type="stream" channelId="-1", Alarabiya
-https://shls-alarabiya-prod.shahid.net/alarabiya-prod_1.m3u8
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_720p.m3u8
 #EXTINF:0 type="stream" channelId="-1", Dubai
 http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b4000000.m3u8
 #EXTINF:0 type="stream" channelId="-1", Dubai One
