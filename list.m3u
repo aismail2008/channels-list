@@ -14,7 +14,7 @@ https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC MAX
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC Masr
-https://shls-masr-prod.shahid.net/masr-prod_1.m3u8
+http://51.81.80.6:8080/live/stream/stream/11.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC Masr 2
 https://shls-masr2-prod.shahid.net/masr2-prod_1.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC Drama
