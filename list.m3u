@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1", MBC 1
-http://51.81.80.6:25461/live/zeko/zeko/1.m3u8
+http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/1.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC 2
 http://51.81.80.6:25461/live/zeko/zeko/2.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC 3
@@ -8,21 +8,21 @@ http://51.81.80.6:25461/live/zeko/zeko/3.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC 4
 http://51.81.80.6:25461/live/zeko/zeko/4.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC 5
-http://51.81.80.6:25461/live/zeko/zeko/5.m3u8
+http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/6.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC ACTION
 http://51.81.80.6:25461/live/zeko/zeko/10.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC MAX
 http://51.81.80.6:25461/live/zeko/zeko/12.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC Masr
-http://51.81.80.6:25461/live/zeko/zeko/6.m3u8
+http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/7.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC Masr 2
 http://51.81.80.6:25461/live/zeko/zeko/7.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC Drama
 http://51.81.80.6:25461/live/zeko/zeko/9.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC Drama Plus
-http://51.81.80.6:25461/live/zeko/zeko/9.m3u8
+http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/14.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC Iraq
-http://51.81.80.6:25461/live/zeko/zeko/13.m3u8
+http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/9.m3u8
 #EXTINF:0 type="stream" channelId="-1", Alarabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_720p.m3u8
 #EXTINF:0 type="stream" channelId="-1", CBC
@@ -33,6 +33,14 @@ http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:0 type="stream" channelId="-1", AD DRAMA
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+#EXTINF:0 type="stream" channelId="-1", National Geographic
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:0 type="stream" channelId="-1", ON TV
+http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/19.m3u8
+#EXTINF:0 type="stream" channelId="-1", DMC
+http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/17.m3u8
+#EXTINF:0 type="stream" channelId="-1", AL-HAYA RED
+http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/25.m3u8
 #EXTINF:0 type="stream" channelId="-1", Mekamleen
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8
 #EXTINF:0 type="stream" channelId="-1", AL SHARQ
