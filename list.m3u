@@ -55,5 +55,7 @@ http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/25.m3u8
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8
 #EXTINF:0 type="stream" channelId="-1", AL SHARQ
 https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Al Araby
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
 #EXTINF:0 type="stream" channelId="-1", ALJAZEERA
 https://live-hls-web-aja.getaj.net/AJA/02.m3u8
