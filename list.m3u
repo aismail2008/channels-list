@@ -49,8 +49,10 @@ http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/17.m3u8
 http://51.159.21.231:2052/live/SOURCEARABPRO22/31136@38606/2282.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sada El-Balad
 http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/29.m3u8
-#EXTINF:0 type="stream" channelId="-1", AL-Haya Red
+#EXTINF:0 type="stream" channelId="-1", AL Haya Red
 http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/25.m3u8
+#EXTINF:0 type="stream" channelId="-1", Al Nahar
+http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/30.m3u8
 #EXTINF:0 type="stream" channelId="-1", Mekamleen
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8
 #EXTINF:0 type="stream" channelId="-1", AL SHARQ
