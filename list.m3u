@@ -1,34 +1,46 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1", MBC 1
-http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/1.m3u8
+http://161.97.101.27:8080/stream1/stream1pass/1.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC 2
-http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/3.m3u8
+http://161.97.101.27:8080/stream1/stream1pass/3.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC 3
-http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/4.m3u8
+http://161.97.101.27:8080/stream1/stream1pass/4.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC 4
-http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/5.m3u8
+http://161.97.101.27:8080/stream1/stream1pass/5.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC 5
-http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/6.m3u8
-#EXTINF:0 type="stream" channelId="-1", MBC ACTION
-http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/12.m3u8
-#EXTINF:0 type="stream" channelId="-1", MBC MAX
-http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/11.m3u8
-#EXTINF:0 type="stream" channelId="-1", MBC Masr
-http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/7.m3u8
-#EXTINF:0 type="stream" channelId="-1", MBC Masr 2
-http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/8.m3u8
-#EXTINF:0 type="stream" channelId="-1", MBC Drama
-http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/13.m3u8
-#EXTINF:0 type="stream" channelId="-1", MBC Drama Plus
-http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/14.m3u8
+http://161.97.101.27:8080/stream1/stream1pass/6.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC Iraq
-http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/9.m3u8
+http://161.97.101.27:8080/stream1/stream1pass/7.m3u8
+#EXTINF:0 type="stream" channelId="-1", MBC ACTION
+http://161.97.101.27:8080/stream1/stream1pass/8.m3u8
+#EXTINF:0 type="stream" channelId="-1", MBC MAX
+http://161.97.101.27:8080/stream1/stream1pass/12.m3u8
+#EXTINF:0 type="stream" channelId="-1", MBC Drama
+http://161.97.101.27:8080/stream1/stream1pass/10.m3u8
+#EXTINF:0 type="stream" channelId="-1", MBC Drama Plus
+http://161.97.101.27:8080/stream1/stream1pass/9.m3u8
+#EXTINF:0 type="stream" channelId="-1", MBC Masr
+http://161.97.101.27:8080/stream1/stream1pass/14.m3u8
+#EXTINF:0 type="stream" channelId="-1", MBC Masr 2
+http://161.97.101.27:8080/stream1/stream1pass/13.m3u8
+#EXTINF:0 type="stream" channelId="-1", ON E
+https://mysat-live.ercdn.net/one/one_720p.m3u8
+#EXTINF:0 type="stream" channelId="-1", DMC
+https://mysat-live.ercdn.net/dmchd/dmchd_720p.m3u8
+#EXTINF:0 type="stream" channelId="-1", DMC Drama
+https://mysat-live.ercdn.net/dmcdrama/dmcdrama_360p.m3u8
+#EXTINF:0 type="stream" channelId="-1", Sada El-Balad
+https://mysat-live.ercdn.net/sadaelbalad/sadaelbalad_576p.m3u8
+#EXTINF:0 type="stream" channelId="-1", CBC
+http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/26.m3u8
 #EXTINF:0 type="stream" channelId="-1", Alarabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_720p.m3u8
+#EXTINF:0 type="stream" channelId="-1", Wanasah
+http://161.97.101.27:8080/stream1/stream1pass/15.m3u8
 #EXTINF:0 type="stream" channelId="-1", SBC
 http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/33.m3u8
-#EXTINF:0 type="stream" channelId="-1", Wanasah
-http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/15.m3u8
+#EXTINF:0 type="stream" channelId="-1", MTV Lebanon
+https://mysat-live.ercdn.net/mtvhd/mtvhd_720p.m3u8
 #EXTINF:0 type="stream" channelId="-1", Dubai
 http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b4000000.m3u8
 #EXTINF:0 type="stream" channelId="-1", Dubai One
@@ -37,22 +49,6 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
 #EXTINF:0 type="stream" channelId="-1", National Geographic
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:0 type="stream" channelId="-1", CBC
-http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/26.m3u8
-#EXTINF:0 type="stream" channelId="-1", ON E
-http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/19.m3u8
-#EXTINF:0 type="stream" channelId="-1", ON Time Sport
-http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/20.m3u8
-#EXTINF:0 type="stream" channelId="-1", DMC
-http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/17.m3u8
-#EXTINF:0 type="stream" channelId="-1", El-Qahera Welnas
-http://51.159.21.231:2052/live/SOURCEARABPRO22/31136@38606/2282.m3u8
-#EXTINF:0 type="stream" channelId="-1", Sada El-Balad
-http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/29.m3u8
-#EXTINF:0 type="stream" channelId="-1", AL Haya Red
-http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/25.m3u8
-#EXTINF:0 type="stream" channelId="-1", Al Nahar
-http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/30.m3u8
 #EXTINF:0 type="stream" channelId="-1", Mekamleen
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8
 #EXTINF:0 type="stream" channelId="-1", AL SHARQ
