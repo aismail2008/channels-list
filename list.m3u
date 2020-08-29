@@ -32,9 +32,11 @@ https://mysat-live.ercdn.net/dmcdrama/dmcdrama_360p.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sada El-Balad
 https://mysat-live.ercdn.net/sadaelbalad/sadaelbalad_576p.m3u8
 #EXTINF:0 type="stream" channelId="-1", CBC
-http://51.15.98.55:8080/live/stream/vdvdsvaddvsdvsd/26.m3u8
+http://161.97.101.27:8080/stream1/stream1pass/21.m3u8
+#EXTINF:0 type="stream" channelId="-1", Al-Haya Red
+http://62.171.169.140:9000/102017J006600/00:1A:79:44:79:00/2.m3u8
 #EXTINF:0 type="stream" channelId="-1", Alarabiya
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_720p.m3u8
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_1080p.m3u8
 #EXTINF:0 type="stream" channelId="-1", Wanasah
 http://161.97.101.27:8080/stream1/stream1pass/15.m3u8
 #EXTINF:0 type="stream" channelId="-1", SBC
