@@ -59,3 +59,19 @@ https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
 http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
 #EXTINF:0 type="stream" channelId="-1", ALJAZEERA
 https://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:0 type="stream" channelId="-1", Al Quran Al Kareem (Mecca) 
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Al Sunnah (Medina)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+#EXTINF:0 type="stream" channelId="-1", ART Aflam 1
+https://p-mysat-live.ercdn.net/artaflam1/artaflam1_576p.m3u8
+#EXTINF:0 type="stream" channelId="-1", ART Aflam 2
+https://p-mysat-live.ercdn.net/artaflam2/artaflam2_576p.m3u8
+#EXTINF:0 type="stream" channelId="-1", ART Cinema
+https://p-mysat-live.ercdn.net/artcinema/artcinema_576p.m3u8
+#EXTINF:0 type="stream" channelId="-1", ART Hekayat 1
+https://p-mysat-live.ercdn.net/arthekayat/arthekayat_576p.m3u8
+#EXTINF:0 type="stream" channelId="-1", ART Hekayat 2 
+https://p-mysat-live.ercdn.net/arthekayat2/arthekayat2_576p.m3u8
+
+
