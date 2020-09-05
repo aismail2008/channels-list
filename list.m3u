@@ -34,7 +34,7 @@ https://mysat-live.ercdn.net/sadaelbalad/sadaelbalad_576p.m3u8
 #EXTINF:0 type="stream" channelId="-1", CBC
 http://161.97.101.27:8080/stream1/stream1pass/21.m3u8
 #EXTINF:0 type="stream" channelId="-1", Al-Haya Red
-http://62.171.169.140:9000/102017J006600/00:1A:79:44:79:00/2.m3u8
+http://p-mysat-live.ercdn.net/alhayat/alhayat_720p.m3u8
 #EXTINF:0 type="stream" channelId="-1", Alarabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_1080p.m3u8
 #EXTINF:0 type="stream" channelId="-1", Wanasah
