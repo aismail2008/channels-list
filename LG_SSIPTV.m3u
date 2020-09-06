@@ -21,12 +21,12 @@ https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8
 https://shls-masr-prod.shahid.net/masr-prod_1.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC Masr 2
 https://shls-masr2-prod.shahid.net/masr2-prod_1.m3u8
-#EXTINF:0 type="stream" channelId="-1", On E
+#EXTINF:0 type="stream" channelId="-1", ON E
 https://mysat-live.ercdn.net/one/one_720p.m3u8
 #EXTINF:0 type="stream" channelId="-1", ON Drama
-#EXTINF:0 type="stream" channelId="-1", ON Time Sport
-ttp://62.171.169.140:25461/live/siko/siko/16.m3u8
 https://mysat-live.ercdn.net/ondrama/ondrama_576p.m3u8
+#EXTINF:0 type="stream" channelId="-1", ON Time Sport
+http://62.171.169.140:25461/live/siko/siko/16.m3u8
 #EXTINF:0 type="stream" channelId="-1", DMC
 https://mysat-live.ercdn.net/dmchd/dmchd_720p.m3u8
 #EXTINF:0 type="stream" channelId="-1", DMC Drama
