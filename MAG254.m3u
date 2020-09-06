@@ -35,6 +35,8 @@ https://mysat-live.ercdn.net/dmcdrama/dmcdrama_360p.m3u8
 https://mysat-live.ercdn.net/sadaelbalad/sadaelbalad_576p.m3u8
 #EXTINF:0 type="stream" channelId="-1", CBC
 http://62.171.169.140:25461/live/siko/siko/20.m3u8
+#EXTINF:0 type="stream" channelId="-1", CBC Sofra
+http://62.171.169.140:25461/live/siko/siko/42.m3u8
 #EXTINF:0 type="stream" channelId="-1", Al-Haya Red
 http://p-mysat-live.ercdn.net/alhayat/alhayat_720p.m3u8
 #EXTINF:0 type="stream" channelId="-1", Al-Nahar Blue
