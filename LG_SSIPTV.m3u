@@ -24,6 +24,8 @@ https://shls-masr2-prod.shahid.net/masr2-prod_1.m3u8
 #EXTINF:0 type="stream" channelId="-1", On E
 https://mysat-live.ercdn.net/one/one_720p.m3u8
 #EXTINF:0 type="stream" channelId="-1", ON Drama
+#EXTINF:0 type="stream" channelId="-1", ON Time Sport
+ttp://62.171.169.140:25461/live/siko/siko/16.m3u8
 https://mysat-live.ercdn.net/ondrama/ondrama_576p.m3u8
 #EXTINF:0 type="stream" channelId="-1", DMC
 https://mysat-live.ercdn.net/dmchd/dmchd_720p.m3u8
@@ -33,8 +35,6 @@ https://mysat-live.ercdn.net/dmcdrama/dmcdrama_360p.m3u8
 https://mysat-live.ercdn.net/sadaelbalad/sadaelbalad_576p.m3u8
 #EXTINF:0 type="stream" channelId="-1", CBC
 http://62.171.169.140:25461/live/siko/siko/20.m3u8
-#EXTINF:0 type="stream" channelId="-1", CBC Sofra
-http://62.171.169.140:25461/live/siko/siko/42.m3u8
 #EXTINF:0 type="stream" channelId="-1", Al Haya Red
 http://p-mysat-live.ercdn.net/alhayat/alhayat_720p.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Nahar Blue" group="Al" tvg-country="Al", Al-Nahar Blue
