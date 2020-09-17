@@ -28,7 +28,7 @@ https://mysat-live.ercdn.net/one/one_720p.m3u8
 #EXTINF:0 type="stream" channelId="-1", ON Drama
 https://mysat-live.ercdn.net/ondrama/ondrama_576p.m3u8
 #EXTINF:0 type="stream" channelId="-1", ON Time Sport
-http://62.171.169.140:25461/live/siko/siko/16.m3u8
+http://channelsstream.xyz:8080/live/streeem/streeem/42.m3u8
 #EXTINF:0 type="stream" channelId="-1", DMC
 https://mysat-live.ercdn.net/dmchd/dmchd_720p.m3u8
 #EXTINF:0 type="stream" channelId="-1", DMC Drama
@@ -37,6 +37,8 @@ https://mysat-live.ercdn.net/dmcdrama/dmcdrama_360p.m3u8
 https://mysat-live.ercdn.net/sadaelbalad/sadaelbalad_576p.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sada El-Balad 2
 http://channelsstream.xyz:8080/live/streeem/streeem/21.m3u8
+#EXTINF:0 type="stream" channelId="-1", Sada El-Balad Drama
+http://channelsstream.xyz:8080/live/streeem/streeem/22.m3u8
 #EXTINF:0 type="stream" channelId="-1", CBC
 http://channelsstream.xyz:8080/live/streeem/streeem/44.m3u8
 #EXTINF:0 type="stream" channelId="-1", CBC Drama
@@ -53,6 +55,10 @@ http://channelsstream.xyz:8080/live/streeem/streeem/48.m3u8
 http://channelsstream.xyz:8080/live/streeem/streeem/23.m3u8
 #EXTINF:0 type="stream" channelId="-1", Al-Qahera Welnas 2
 http://channelsstream.xyz:8080/live/streeem/streeem/24.m3u8
+#EXTINF:0 type="stream" channelId="-1", Dream
+http://channelsstream.xyz:8080/live/streeem/streeem/25.m3u8
+#EXTINF:0 type="stream" channelId="-1", Panaorama Food
+http://channelsstream.xyz:8080/live/streeem/streeem/27.m3u8
 #EXTINF:0 type="stream" channelId="-1", Alarabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_1080p.m3u8
 #EXTINF:0 type="stream" channelId="-1", Wanasah
