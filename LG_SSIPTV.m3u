@@ -17,6 +17,8 @@ http://62.171.169.140:25461/live/siko/siko/9.m3u8
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC Drama
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8
+#EXTINF:0 type="stream" channelId="-1", MBC Drama +
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_2.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC Masr	
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC Masr 2
@@ -33,12 +35,24 @@ https://mysat-live.ercdn.net/dmchd/dmchd_720p.m3u8
 https://mysat-live.ercdn.net/dmcdrama/dmcdrama_360p.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sada El-Balad
 https://mysat-live.ercdn.net/sadaelbalad/sadaelbalad_576p.m3u8
+#EXTINF:0 type="stream" channelId="-1", Sada El-Balad 2
+http://channelsstream.xyz:8080/live/streeem/streeem/21.m3u8
+#EXTINF:0 type="stream" channelId="-1", CBC
+http://channelsstream.xyz:8080/live/streeem/streeem/44.m3u8
+#EXTINF:0 type="stream" channelId="-1", CBC Drama
+http://channelsstream.xyz:8080/live/streeem/streeem/41.m3u8
 #EXTINF:0 type="stream" channelId="-1", CBC Sofra
 https://p-mysat-live.ercdn.net/cbcsofra/cbcsofra.m3u8
 #EXTINF:0 type="stream" channelId="-1", Al Haya Red
 http://p-mysat-live.ercdn.net/alhayat/alhayat_720p.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="Nahar Blue" group="Al" tvg-country="Al", Al-Nahar Blue
-http://62.171.169.140:25461/live/siko/siko/23.m3u8
+#EXTINF:0 type="stream" channelId="-1", Al-Nahar
+http://channelsstream.xyz:8080/live/streeem/streeem/47.m3u8
+#EXTINF:0 type="stream" channelId="-1", Al-Nahar Drama
+http://channelsstream.xyz:8080/live/streeem/streeem/48.m3u8
+#EXTINF:0 type="stream" channelId="-1", Al-Qahera Welnas
+http://channelsstream.xyz:8080/live/streeem/streeem/23.m3u8
+#EXTINF:0 type="stream" channelId="-1", Al-Qahera Welnas 2
+http://channelsstream.xyz:8080/live/streeem/streeem/24.m3u8
 #EXTINF:0 type="stream" channelId="-1", Alarabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_1080p.m3u8
 #EXTINF:0 type="stream" channelId="-1", Wanasah
