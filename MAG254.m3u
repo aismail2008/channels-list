@@ -30,11 +30,11 @@ http://channelsstream.xyz:8080/live/streeem/streeem/86.m3u8
 #EXTINF:0 type="stream" channelId="-1", ON Time Sport
 http://channelsstream.xyz:8080/live/streeem/streeem/42.m3u8
 #EXTINF:0 type="stream" channelId="-1", DMC
-https://mysat-live.ercdn.net/dmchd/dmchd_720p.m3u8
+http://channelsstream.xyz:8080/live/streeem/streeem/95.m3u8
 #EXTINF:0 type="stream" channelId="-1", DMC Drama
-https://mysat-live.ercdn.net/dmcdrama/dmcdrama_360p.m3u8
+http://channelsstream.xyz:8080/live/streeem/streeem/91.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sada El-Balad
-https://mysat-live.ercdn.net/sadaelbalad/sadaelbalad_576p.m3u8
+http://channelsstream.xyz:8080/live/streeem/streeem/78.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sada El-Balad 2
 http://channelsstream.xyz:8080/live/streeem/streeem/21.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sada El-Balad Drama
@@ -44,15 +44,15 @@ http://channelsstream.xyz:8080/live/streeem/streeem/44.m3u8
 #EXTINF:0 type="stream" channelId="-1", CBC Drama
 http://channelsstream.xyz:8080/live/streeem/streeem/41.m3u8
 #EXTINF:0 type="stream" channelId="-1", CBC Sofra
-https://p-mysat-live.ercdn.net/cbcsofra/cbcsofra.m3u8
+http://channelsstream.xyz:8080/live/streeem/streeem/38.m3u8
 #EXTINF:0 type="stream" channelId="-1", Al-Haya Red
-http://p-mysat-live.ercdn.net/alhayat/alhayat_720p.m3u8
+http://channelsstream.xyz:8080/live/streeem/streeem/73.m3u8
 #EXTINF:0 type="stream" channelId="-1", Al-Nahar
 http://channelsstream.xyz:8080/live/streeem/streeem/47.m3u8
 #EXTINF:0 type="stream" channelId="-1", Al-Nahar Drama
 http://channelsstream.xyz:8080/live/streeem/streeem/48.m3u8
 #EXTINF:0 type="stream" channelId="-1", Al-Qahera Welnas
-http://channelsstream.xyz:8080/live/streeem/streeem/23.m3u8
+http://channelsstream.xyz:8080/live/streeem/streeem/115.m3u8
 #EXTINF:0 type="stream" channelId="-1", Al-Qahera Welnas 2
 http://channelsstream.xyz:8080/live/streeem/streeem/24.m3u8
 #EXTINF:0 type="stream" channelId="-1", Dream
@@ -62,17 +62,17 @@ http://channelsstream.xyz:8080/live/streeem/streeem/27.m3u8
 #EXTINF:0 type="stream" channelId="-1", Alarabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_720p.m3u8
 #EXTINF:0 type="stream" channelId="-1", Wanasah
-http://62.171.169.140:25461/live/siko/siko/15.m3u8
+http://channelsstream.xyz:8080/live/streeem/streeem/13.m3u8
 #EXTINF:0 type="stream" channelId="-1", SBC
-http://p-mysat-live.ercdn.net/sbchd/sbchd_720p.m3u8
+http://channelsstream.xyz:8080/live/streeem/streeem/49.m3u8
 #EXTINF:0 type="stream" channelId="-1", MTV Lebanon
-https://mysat-live.ercdn.net/mtvhd/mtvhd_720p.m3u8
+http://channelsstream.xyz:8080/live/streeem/streeem/121.m3u8
 #EXTINF:0 type="stream" channelId="-1", Dubai
 http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b4000000.m3u8
 #EXTINF:0 type="stream" channelId="-1", Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:0 type="stream" channelId="-1", AD DRAMA
-https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+https://admdn5ta.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 #EXTINF:0 type="stream" channelId="-1", National Geographic
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:0 type="stream" channelId="-1", Mekamleen
