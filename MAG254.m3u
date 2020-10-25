@@ -24,7 +24,7 @@ https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/in
 #EXTINF:0 type="stream" channelId="-1", MBC Masr 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
 #EXTINF:0 type="stream" channelId="-1", ON E
-http://channelsstream.xyz:8080/live/streeem/streeem/76.m3u8
+http://channelsstream.xyz:8080/live/streeem/streeem/125.m3u8
 #EXTINF:0 type="stream" channelId="-1", ON Drama
 http://channelsstream.xyz:8080/live/streeem/streeem/86.m3u8
 #EXTINF:0 type="stream" channelId="-1", ON Time Sport
