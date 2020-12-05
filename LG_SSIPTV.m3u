@@ -28,7 +28,7 @@ https://mysat-live.ercdn.net/one/one_720p.m3u8
 #EXTINF:0 type="stream" channelId="-1", ON Drama
 https://mysat-live.ercdn.net/ondrama/ondrama_576p.m3u8
 #EXTINF:0 type="stream" channelId="-1", ON Time Sport
-http://channelsstream.xyz:8080/live/streeem/streeem/42.m3u8
+https://centurylink.br.cdn.booyah.live/hls/1000004/35413243.m3u8
 #EXTINF:0 type="stream" channelId="-1", DMC
 https://mysat-live.ercdn.net/dmchd/dmchd_720p.m3u8
 #EXTINF:0 type="stream" channelId="-1", DMC Drama
