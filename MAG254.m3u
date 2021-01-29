@@ -87,15 +87,6 @@ https://live-hls-web-aja.getaj.net/AJA/02.m3u8
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Al Sunnah (Medina)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
-#EXTINF:0 type="stream" channelId="-1", ART Aflam 1
-https://p-mysat-live.ercdn.net/artaflam1/artaflam1_576p.m3u8
-#EXTINF:0 type="stream" channelId="-1", ART Aflam 2
-https://p-mysat-live.ercdn.net/artaflam2/artaflam2_576p.m3u8
-#EXTINF:0 type="stream" channelId="-1", ART Cinema
-https://p-mysat-live.ercdn.net/artcinema/artcinema_576p.m3u8
-#EXTINF:0 type="stream" channelId="-1", ART Hekayat 1
-https://p-mysat-live.ercdn.net/arthekayat/arthekayat_576p.m3u8
-#EXTINF:0 type="stream" channelId="-1", ART Hekayat 2 
-https://p-mysat-live.ercdn.net/arthekayat2/arthekayat2_576p.m3u8
-
+#EXTINF:0 type="stream" channelId="-1", Movie
+https://o8-kq7-s-1v9s.vidstream.to/watch/c0f0c3c96e89cbb5KobFEZVkV0mOzGnhf.pcFoxhu0kcwHHn711vm1zA__.a3ArRnMwZ2ovdmFBclFudmZidTBVOXNPLzZyZmNScFN1eUhLeWMvc2h4bW9XeDJWV0dWMVNEOC91WWhhRm40RmtYOVp4M3ZsUTExRVUxZUcrSjBBd01QK1JqUVlPQjRadmwvL1FIakJrQTJCNFVGT2htdUg5R21GQnJGdlNzZFBLdTU5SE54eXllQ0d1T3o4SXBDVzJvaTdxVzJDalNoOFplNG5GRGVTWURFWG0yM3kzVjBKeDdlY1djNVhldUJPZThnTWJoN3NyVnZ0cENsK1U3NU1CLzVBeGk0WUplUWhXS2xtbXBGdXZ5eFFGNm1MekxhS3E5eGRmc1d3T3N4KzJKNFExeWRpa2pYT0Z3S3hwZDZJQXBDRFdtVXZ2bDNhbTBEa3diMWJGazFKUVVybnpReHpYdHI3NFhBRHE2U3NNS2lwSkRYUmNKbFZxSVBnSnU0VkcvZmxoYTY3QjZYRHRxRFN1TStUcG9QNW10ZGR6ZHlWNDM1OS9xdjd2Z3ZScnRkbkdRPT0_
 
