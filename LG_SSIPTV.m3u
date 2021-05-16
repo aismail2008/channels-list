@@ -4,33 +4,35 @@ https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107
 #EXTINF:0 type="stream" channelId="-1", MBC 2
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC 3
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC 4
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_2.m3u8
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC Iraq
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC ACTION
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC MAX
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC Drama
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC Drama+
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_2.m3u8
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC Masr	
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC Masr 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
+#EXTINF:0 type="stream" channelId="-1", MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
 #EXTINF:0 type="stream" channelId="-1", ON E
-http://posterboot.xyz:8080/live/rgzfzfdh/zghzh/36.m3u8
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/23.m3u8
 #EXTINF:0 type="stream" channelId="-1", ON Drama
 http://posterboot.xyz:8080/live/rgzfzfdh/zghzh/37.m3u8
 #EXTINF:0 type="stream" channelId="-1", ON Time Sport
 http://posterboot.xyz:8080/live/rgzfzfdh/zghzh/89.m3u8
 #EXTINF:0 type="stream" channelId="-1", DMC
-http://posterboot.xyz:8080/live/rgzfzfdh/zghzh/29.m3u8
+http://bathawy.site:8080/live/E9T6WjqMMC/nvomCmAkEm/30.m3u8
 #EXTINF:0 type="stream" channelId="-1", DMC Drama
 http://posterboot.xyz:8080/live/rgzfzfdh/zghzh/30.m3u8
 #EXTINF:0 type="stream" channelId="-1", Sada El-Balad
@@ -72,21 +74,29 @@ https://mysat-live.ercdn.net/mtvhd/mtvhd_720p.m3u8
 #EXTINF:0 type="stream" channelId="-1", Dubai
 https://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:0 type="stream" channelId="-1", Dubai One
-https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Sama Dubai
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Dubai Zaman
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
 #EXTINF:0 type="stream" channelId="-1", AD TV
 https://admdn2ta.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
 #EXTINF:0 type="stream" channelId="-1", AD DRAMA
-https://admdn5ta.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
-#EXTINF:0 type="stream" channelId="56", National Geographic
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rotana Cinema
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_1.m3u8
+#EXTINF:0 type="stream" channelId="56", National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:0 type="stream" channelId="-1", Mekamleen
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8
 #EXTINF:0 type="stream" channelId="-1", AL SHARQ
 https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1", Al Araby
-http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="363", ALJAZEERA
 https://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:0 type="stream" channelId="363", Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="Jazeera Mubasher" group="Al" tvg-country="Al", Al-Jazeera Mubasher
 https://live-hls-web-ajm.getaj.net/AJM/04.m3u8
 #EXTINF:0 type="stream" channelId="-1", Al Quran Al Kareem (Mecca)
