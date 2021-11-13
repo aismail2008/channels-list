@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1", MBC 1
 https://shls-mbc1ksa-ak.akamaized.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
-#EXTINF:0 type="stream" channelId="-1", MBC 2
+#EXTINF:0 type="stream" channelId="-1", MBC 2_2
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
+EXTINF:0 type="stream" channelId="-1", MBC 2_1
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
+EXTINF:0 type="stream" channelId="-1", MBC 2_
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC 3
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_1.m3u8
 #EXTINF:0 type="stream" channelId="-1", MBC 4
@@ -62,7 +66,7 @@ http://channelsstream.xyz:8080/live/streeem/streeem/25.m3u8
 #EXTINF:0 type="stream" channelId="-1", Panaorama Food
 http://channelsstream.xyz:8080/live/streeem/streeem/27.m3u8
 #EXTINF:0 type="stream" channelId="-1", Alarabiya
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_720p/chunks.m3u8
+https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index_27.m3u8
 #EXTINF:0 type="stream" channelId="-1", Wanasah
 https://shls-wanasah-prod.shahid.net/wanasah-prod_1.m3u8
 #EXTINF:0 type="stream" channelId="-1", SBC
@@ -85,6 +89,10 @@ https://admdn2ta.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b450000_
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:0 type="stream" channelId="-1", Rotana Cinema
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_1.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rotana Drama
+https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_2.m3u8
+#EXTINF:0 type="stream" channelId="-1", Rotana Classic
+https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_1.m3u8
 #EXTINF:0 type="stream" channelId="56", National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:0 type="stream" channelId="-1", Mekamleen
